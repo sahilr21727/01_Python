@@ -7,7 +7,7 @@
     - git clone paste link withot ""
     - git status
     - git pull origin main  
-- Add project to Github
+- Add project to the github
     - git init    ## to incorporate git in folder
     - Remove-Item -Recurse -Force .git #remove git
     - create repositor in github with same name of your projec and without rmd file
