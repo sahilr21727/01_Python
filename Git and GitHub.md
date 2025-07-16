@@ -94,7 +94,7 @@ git branch -m old-branch-name new-branch-name
 
 ### 🗑️ Delete a local branch
 git branch -d feature/old-feature   # Use -D to force delete locally \
-git push origin --delete feature1   # delete from github
+
 
 
 ### 🗑️ Delete a remote branch
