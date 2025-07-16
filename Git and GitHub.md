@@ -9,7 +9,7 @@
     - git pull origin main  
 - Add project to the github
     - git init    ## to incorporate git in folder
-    - Remove-Item -Recurse -Force .git #remove git
+    - Remove-Item -Recurse -Force .git #disconnect git from github
     - create repositor in github with same name of your projec and without rmd file
     - git add .
     - git commit -m "first commit"
@@ -19,6 +19,16 @@
     - git push -u origin main    #here -u represent upstream means it always adds changes automatically in origin/main branch with 
     - git push command  #use onward
 ---
+
+## To signout git from github
+git config --global --unset user.name
+git config --global --unset user.email
+In Windows Credential Manager:
+- Search for Credential Manager in Windows Start
+- Open Windows Credentials
+- Find anything like git:https://github.com
+- Click and remove/delete it
+
 
 ## 🔁 GitHub Access Types – Short Guide
 
