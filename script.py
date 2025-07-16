@@ -1,0 +1,3 @@
+ali = "scientist"
+print(ali)
+
