@@ -21,7 +21,7 @@
 ---
 
 ## To signout git from github
-git config --global --unset user.name
+git config --global --unset user.name   \
 git config --global --unset user.email
 - Search for Credential Manager in Windows Start
 - Open Windows Credentials
