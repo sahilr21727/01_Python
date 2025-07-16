@@ -23,7 +23,6 @@
 ## To signout git from github
 git config --global --unset user.name
 git config --global --unset user.email
-In Windows Credential Manager:
 - Search for Credential Manager in Windows Start
 - Open Windows Credentials
 - Find anything like git:https://github.com
@@ -94,7 +93,7 @@ git branch -m new-branch-name
 git branch -m old-branch-name new-branch-name
 
 ### 🗑️ Delete a local branch
-git branch -d feature/old-feature   # Use -D to force delete locally
+git branch -d feature/old-feature   # Use -D to force delete locally \
 git push origin --delete feature1   # delete from github
 
 
