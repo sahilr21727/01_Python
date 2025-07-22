@@ -1,3 +1,0 @@
-ali = "scientist"
-print(ali)
-
