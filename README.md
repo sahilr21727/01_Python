@@ -1,6 +1,16 @@
-# 🧠 Basic MLOps Project
+| **Author :** | Ali Raza                    |
+|--------------|-----------------------------|
+| **Course :** | Python from Basic to Advanced           |
+| **Email :**  | sahilir21727@gmail.com      |
+| **LinkedIn :** | https://www.linkedin.com/in/aliraza~pk/|
 
-This repository contains beginner-friendly examples for understanding **MLOps concepts** using **Python** and **Jupyter Notebooks**.
+
+
+
+
+# 🧠 Python  Project
+
+This repository contains beginner-friendly examples for understanding  **Python** and **Jupyter Notebooks**.
 
 ---
 
@@ -20,12 +30,5 @@ This repository contains beginner-friendly examples for understanding **MLOps co
   - Exception handling
   - Class and Object
   
-- **Scripts**
-  - `script.py` – Python script
-  - `script.r` – R script
-- **Documentation**
-  - `README.md` – Project overview
-  - `notes.txt`, `markdown.md`
-- **RMarkdown**
-  - `README.Rmd` – Editable R Markdown for README
+
 
