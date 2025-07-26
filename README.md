@@ -1,6 +1,6 @@
 # 🧠 Basic MLOps Project
 
-This repository contains beginner-friendly examples for understanding **MLOps concepts** using **Python**, **R**, and **Jupyter Notebooks**.
+This repository contains beginner-friendly examples for understanding **MLOps concepts** using **Python** and **Jupyter Notebooks**.
 
 ---
 
