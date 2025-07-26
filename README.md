@@ -15,6 +15,10 @@ This repository contains beginner-friendly examples for understanding **MLOps co
   - Conditional logic
   - Loops
   - Function
+  - Module and Packages
+  - FIle handling
+  - Exception handling
+  - Class and Object
   
 - **Scripts**
   - `script.py` – Python script
