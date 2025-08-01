@@ -3,6 +3,25 @@
 **Author:** Ali Raza  
 **Email:** sahilr21727@gmail.com
 ---
+# VS code Extension
+
+- Python 
+- Python Extension Pack 
+- Jupyter
+- Intellicode: suggest code completion based on code context
+- Blackbox AI: Code completion and code analysis by finding issue.
+- Prettier Code Formatter: Formate your code
+- Codesnap: Help to take screenshots
+- Markdown all in one: Support markdown
+- Excel viewer:
+- VScode Pdf:
+
+
+
+
+
+
+
 # **Runnig Python**
 - Open folder
 - use cmd as terminal instead of vs terminal becasue we will use software installed in window

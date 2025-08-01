@@ -29,6 +29,11 @@ This repository contains beginner-friendly examples for understanding  **Python*
   - FIle handling
   - Exception handling
   - Class and Object
+  - Inheritance
+  - Polymorphism
+  - Encapsulation
+  - Magic/Dundar methods
+  
   
 
 
